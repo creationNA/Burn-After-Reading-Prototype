@@ -1,0 +1,42 @@
+.app-title{
+    display: flex;
+    padding: 25px 25px;
+}
+
+
+.form-title{
+    padding: 2%;
+    margin-bottom: 2%;
+
+}
+
+.note-fields{
+    display: flex;
+    flex-direction: column;
+}
+
+.btn{
+    margin-top: 10px;
+}
+
+body{
+    background-color:rgb(217, 217, 217);
+}
+
+.card{
+    display: flex;
+    margin-left: 25px;
+}
+
+
+.note-fields {
+    margin-top: 20px;
+}
+
+.posted-notes{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 40px;
+    min-width: fit-content;
+    max-width: 50px;
+}
